@@ -7,6 +7,8 @@ on:
 
 jobs:
   run:
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
     environment: SUPABASE_URL
     steps:

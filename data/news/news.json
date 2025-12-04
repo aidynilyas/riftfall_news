@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-03T23:47:49.198Z",
+  "generated_at": "2025-12-04T01:05:59.920Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -8,6 +8,50 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Defender roster data limited this cycle. Total players involved: 0.",
       "created_at": "2025-12-03T23:47:49.197Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": []
+      }
+    },
+    {
+      "id": "Yx9QGYnGvEIkYrBGEgbpw",
+      "type": "summary",
+      "title": "Asia Under Siege",
+      "body": "Asia has been breached, with the continent currently at 90% health. Defenders are scrambling to repel the invaders, but the situation remains dire.",
+      "created_at": "2025-12-04T01:05:59.919Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": []
+      }
+    },
+    {
+      "id": "GrlnIQLiY-g-qyfwgKq_D",
+      "type": "summary",
+      "title": "Europe and Africa Hold Strong",
+      "body": "Europe and Africa remain stable, with both continents at full health. The defenders of Europe's 'The Last Bastion' stronghold have earned a spot in the top 10, with 'Skye' and 'Nebula' leading the charge.",
+      "created_at": "2025-12-04T01:05:59.919Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": []
+      }
+    },
+    {
+      "id": "K1tnZ2fQIit8vqBTTwI3r",
+      "type": "summary",
+      "title": "North America and South America Cling to Life",
+      "body": "North America and South America are fighting for their lives, with both continents at 10% health. 'Apex' and 'Valkyrie' have emerged as top defenders in North America, while 'Rampage' and 'Stormchaser' are holding the line in South America.",
+      "created_at": "2025-12-04T01:05:59.919Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": []
+      }
+    },
+    {
+      "id": "miCU42_OzRVVnjuTMAru8",
+      "type": "summary",
+      "title": "Australia and Antarctica Hold Out",
+      "body": "Australia and Antarctica remain unscathed, with both continents at full health. The defenders of Australia's 'Kangaroo Island' stronghold are preparing for a potential invasion.",
+      "created_at": "2025-12-04T01:05:59.919Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": []

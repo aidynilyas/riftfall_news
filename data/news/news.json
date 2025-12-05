@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-05T12:29:12.767Z",
+  "generated_at": "2025-12-05T18:18:48.995Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -169,6 +169,78 @@
             "role": "defend",
             "continent_code": "europe",
             "total_score": 40144
+          }
+        ]
+      }
+    },
+    {
+      "id": "ypBcnvGbwV9Vi19OWA0yK",
+      "type": "summary",
+      "title": "Asia Defends Against Ongoing Invasion",
+      "body": "Asia has successfully repelled the Nether's assault, but continues to suffer heavy losses. The continent's defenders, led by top-ranked 'Riftbreaker', have managed to hold off the invaders, but at a great cost.",
+      "created_at": "2025-12-05T18:18:48.994Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 51750
+          }
+        ]
+      }
+    },
+    {
+      "id": "anVUd08AJknPi5N-elQav",
+      "type": "summary",
+      "title": "Antarctica Narrowly Escapes Devastation",
+      "body": "A last-ditch effort by defenders, including 'GlacialGuard', has saved Antarctica from falling to the Nether. The continent's health is critically low, but it remains a vital stronghold against the enemy.",
+      "created_at": "2025-12-05T18:18:48.994Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 51750
+          }
+        ]
+      }
+    },
+    {
+      "id": "HF3wWPnZM5NXf_iYbHze4",
+      "type": "summary",
+      "title": "North America Under Siege",
+      "body": "North America is under intense pressure from the Nether's forces. Despite valiant efforts from defenders like 'NorthernSentinel', the continent's health is declining rapidly. Its fate hangs in the balance.",
+      "created_at": "2025-12-05T18:18:48.994Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 51750
+          }
+        ]
+      }
+    },
+    {
+      "id": "XmRg4d0WDk83ZBRs_miKl",
+      "type": "summary",
+      "title": "Europe Remains Stable, for Now",
+      "body": "Europe has thus far avoided the worst of the conflict, thanks to the bravery of defenders such as 'EuropaGuard'. However, the continent is not out of danger, and its defenders must remain vigilant to prevent a sudden collapse.",
+      "created_at": "2025-12-05T18:18:48.994Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 51750
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-04T18:23:02.319Z",
+  "generated_at": "2025-12-05T01:06:26.897Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -85,6 +85,17 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Defender roster data limited this cycle. Total players involved: 0.",
       "created_at": "2025-12-04T18:23:02.318Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": []
+      }
+    },
+    {
+      "id": "1kabJLCKC04UVF5narMLz",
+      "type": "summary",
+      "title": "Lines hold across 7 continents",
+      "body": "Antarctica took the heaviest fire but remains standing. Defender roster data limited this cycle. Total players involved: 0.",
+      "created_at": "2025-12-05T01:06:26.896Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": []

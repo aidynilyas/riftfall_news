@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-05T06:22:31.656Z",
+  "generated_at": "2025-12-05T12:29:12.767Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -143,6 +143,24 @@
       "title": "South America in Peril",
       "body": "South America is in dire straits as the Rift continues to erode its defenses. With a current health of 3088894, the continent is in danger of falling to the Rift. Can the defenders rally to save it?",
       "created_at": "2025-12-05T06:22:31.655Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 40144
+          }
+        ]
+      }
+    },
+    {
+      "id": "Ewm8kxbf7J-uBFmdmFVsi",
+      "type": "summary",
+      "title": "Lines hold across 7 continents",
+      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (40144 pts). Total players involved: 1.",
+      "created_at": "2025-12-05T12:29:12.766Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

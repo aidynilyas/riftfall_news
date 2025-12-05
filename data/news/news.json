@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-05T01:06:26.897Z",
+  "generated_at": "2025-12-05T06:22:31.656Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -99,6 +99,60 @@
       "meta": {
         "fallen_continents": [],
         "top_defenders": []
+      }
+    },
+    {
+      "id": "dgIJ4dnifHtGbGZ2OC3K-",
+      "type": "summary",
+      "title": "Asia Under Siege",
+      "body": "Asia is teetering on the brink of collapse as the Rift continues to ravage the continent. Despite the valiant efforts of defenders like Developer, who contributed 40144 points to the cause, the continent's health has dropped to 4588919. Will the defenders be able to stem the tide and save Asia?",
+      "created_at": "2025-12-05T06:22:31.655Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 40144
+          }
+        ]
+      }
+    },
+    {
+      "id": "aSq_28hQYS1BARG-wirFC",
+      "type": "summary",
+      "title": "Antarctica Remains Stable",
+      "body": "Antarctica remains one of the few stable continents, with its health standing at 2150056. The icy landscape has thus far withstood the Rift's fury, but it remains crucial for defenders to continue their efforts to keep it safe.",
+      "created_at": "2025-12-05T06:22:31.655Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 40144
+          }
+        ]
+      }
+    },
+    {
+      "id": "XtKSlD9091R4bfksmBupI",
+      "type": "summary",
+      "title": "South America in Peril",
+      "body": "South America is in dire straits as the Rift continues to erode its defenses. With a current health of 3088894, the continent is in danger of falling to the Rift. Can the defenders rally to save it?",
+      "created_at": "2025-12-05T06:22:31.655Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 40144
+          }
+        ]
       }
     }
   ]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-06T01:03:09.302Z",
+  "generated_at": "2025-12-06T06:19:50.285Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -287,6 +287,78 @@
       "title": "North America and South America Under Siege",
       "body": "North America and South America are currently under attack, with North America at 340,289,700 HP and South America at 286,322,600 HP. The defenders are fighting hard to repel the invaders, but the outcome is far from certain.",
       "created_at": "2025-12-06T01:03:09.301Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          }
+        ]
+      }
+    },
+    {
+      "id": "9raDvOTxamYgVKAL-tCVE",
+      "type": "summary",
+      "title": "Asia Under Siege",
+      "body": "Asia remains the focal point of the war, with its health dwindling to 86.2% of its maximum capacity. The continent is currently under attack, with defenders scrambling to repel the invaders.",
+      "created_at": "2025-12-06T06:19:50.284Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          }
+        ]
+      }
+    },
+    {
+      "id": "W8c9kfzoKe_6mscFnlht4",
+      "type": "summary",
+      "title": "Antarctica Holds Firm",
+      "body": "Antarctica, with its icy landscape, has managed to withstand the onslaught, maintaining a healthy 72.2% of its maximum capacity. Its defenses are holding strong, for now.",
+      "created_at": "2025-12-06T06:19:50.284Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          }
+        ]
+      }
+    },
+    {
+      "id": "z-kRdQBxOWd8Q3ZCssIj4",
+      "type": "summary",
+      "title": "Notable Defenders Emerge",
+      "body": "Among the top defenders, Developer stands out, having saved Antarctica numerous times, with a total score of 73,830 points. Their bravery will be crucial in the coming hours.",
+      "created_at": "2025-12-06T06:19:50.284Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          }
+        ]
+      }
+    },
+    {
+      "id": "bucxbdVNFgukz11wn0SGO",
+      "type": "summary",
+      "title": "Other Continents Unscathed",
+      "body": "The remaining continents, including Australia, Europe, Africa, North America, and South America, remain stable, with their health intact. However, the war is far from over, and vigilance is necessary to prevent a breach.",
+      "created_at": "2025-12-06T06:19:50.284Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

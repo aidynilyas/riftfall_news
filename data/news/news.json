@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-05T18:18:48.995Z",
+  "generated_at": "2025-12-06T01:03:09.302Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -241,6 +241,60 @@
             "role": "defend",
             "continent_code": "europe",
             "total_score": 51750
+          }
+        ]
+      }
+    },
+    {
+      "id": "u_e1gESDi9nBWsfYlsaHg",
+      "type": "summary",
+      "title": "Asia and Antarctica Hold Strong Amidst Ongoing Assault",
+      "body": "Despite intense attacks, Asia and Antarctica have managed to maintain their defenses, with Asia currently sitting at 436,076,000 HP and Antarctica at 1,795,618 HP.",
+      "created_at": "2025-12-06T01:03:09.301Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          }
+        ]
+      }
+    },
+    {
+      "id": "0GPnwehIHVUFewl2Wbm0J",
+      "type": "summary",
+      "title": "Europe and Africa Narrowly Avoid Devastation",
+      "body": "Europe and Africa have been pushed to the brink, but thanks to the valiant efforts of top defender Developer, who has racked up a total score of 73,830, they have been able to hold off the invaders. Europe currently sits at 329,406,400 HP, while Africa stands at 328,467,000 HP.",
+      "created_at": "2025-12-06T01:03:09.301Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          }
+        ]
+      }
+    },
+    {
+      "id": "N-YKbYv6iyQ5ooDxnyzxO",
+      "type": "summary",
+      "title": "North America and South America Under Siege",
+      "body": "North America and South America are currently under attack, with North America at 340,289,700 HP and South America at 286,322,600 HP. The defenders are fighting hard to repel the invaders, but the outcome is far from certain.",
+      "created_at": "2025-12-06T01:03:09.301Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
           }
         ]
       }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-08T12:29:29.485Z",
+  "generated_at": "2025-12-08T18:22:10.018Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -659,6 +659,96 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (73830 pts), Developer (1544 pts), Developer (12158 pts). Total players involved: 1.",
       "created_at": "2025-12-08T12:29:29.484Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 12158
+          }
+        ]
+      }
+    },
+    {
+      "id": "tgZAKTHF9OfnycNhZIcYe",
+      "type": "summary",
+      "title": "Asia Remains Unscathed, Australia's Defenses Holding Strong",
+      "body": "As the clock ticks down, Asia and Australia remain stable, with no reported breaches in their defenses. The top defenders on these continents, including Developer, have been instrumental in repelling the invaders.",
+      "created_at": "2025-12-08T18:22:10.017Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 12158
+          }
+        ]
+      }
+    },
+    {
+      "id": "9N6HkAgAeZ6xZWRhYNgHD",
+      "type": "summary",
+      "title": "South America on the Brink, North America's Defenses Shaky",
+      "body": "South America's health is dwindling, with only 59% of its maximum capacity remaining. North America's defenses are also showing signs of strain, with its health at 63%. Will the defenders be able to stem the tide and save these continents?",
+      "created_at": "2025-12-08T18:22:10.017Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 12158
+          }
+        ]
+      }
+    },
+    {
+      "id": "GejnWWK9pZisG-5wtrGET",
+      "type": "summary",
+      "title": "Europe and Africa Hold Firm, Antarctica's Defenders Shine",
+      "body": "Europe and Africa's defenses have withstood the assault, with their health remaining at 63% and 64% respectively. Meanwhile, Antarctica's defenders, led by Developer, have been instrumental in repelling the invaders, with the continent's health standing at 41%.",
+      "created_at": "2025-12-08T18:22:10.017Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

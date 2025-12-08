@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-08T01:06:39.313Z",
+  "generated_at": "2025-12-08T06:25:01.205Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -539,6 +539,96 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (73830 pts), Developer (1544 pts), Developer (12158 pts). Total players involved: 1.",
       "created_at": "2025-12-08T01:06:39.312Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 12158
+          }
+        ]
+      }
+    },
+    {
+      "id": "WbUa9JcdRVipZxWVf_6D1",
+      "type": "summary",
+      "title": "Antarctica Holds Strong, Australia Narrowly Escapes Attack",
+      "body": "In the last 6 hours, Antarctica has maintained its defenses, while Australia has been saved from falling to the enemy by a hair's breadth. Both continents remain stable, with Antarctica still at 41% health and Australia at 48%.",
+      "created_at": "2025-12-08T06:25:01.204Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 12158
+          }
+        ]
+      }
+    },
+    {
+      "id": "SDy5KsGxgd8gPE8MWyWGs",
+      "type": "summary",
+      "title": "Asia, South America, and North America Defended Successfully",
+      "body": "Meanwhile, Asia, South America, and North America have all been successfully defended against enemy attacks, with defenders from top 10 including Developer putting up impressive fights. These continents remain at full health.",
+      "created_at": "2025-12-08T06:25:01.204Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 73830
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 12158
+          }
+        ]
+      }
+    },
+    {
+      "id": "996ByqI9jM86FzSUhdQxH",
+      "type": "summary",
+      "title": "Europe and Africa Under Siege, But Holding On",
+      "body": "In a close call, Europe and Africa have managed to withstand enemy attacks, but are now at critically low health levels, with Europe at 63% and Africa at 63%. The fate of these continents hangs in the balance.",
+      "created_at": "2025-12-08T06:25:01.204Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

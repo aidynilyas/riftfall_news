@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-08T18:22:10.018Z",
+  "generated_at": "2025-12-09T01:05:56.368Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -769,6 +769,132 @@
             "role": "defend",
             "continent_code": "south_america",
             "total_score": 12158
+          }
+        ]
+      }
+    },
+    {
+      "id": "Dv70KfZiQKqaFjC_vvjOE",
+      "type": "summary",
+      "title": "South America in Peril",
+      "body": "South America's defenses have been breached, leaving the continent vulnerable to further attacks. The continent's health has dropped to 1709246, a 51.4% decrease from its maximum capacity.",
+      "created_at": "2025-12-09T01:05:56.367Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "-UMCUXtCgyKd-xHAnuOpq",
+      "type": "summary",
+      "title": "Antarctica and Australia Hold Strong",
+      "body": "Antarctica and Australia have withstood the recent attacks, maintaining their health at 709007 and 1208714 respectively. The two continents remain stable and secure.",
+      "created_at": "2025-12-09T01:05:56.367Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "Exp-t_yP4sQ3tpXzyXLRG",
+      "type": "summary",
+      "title": "Europe and Asia Under Siege",
+      "body": "Europe and Asia are fighting for their lives, with their health levels at 2207231 and 3205812 respectively. The continents are in danger of falling if their defenses are not strengthened soon.",
+      "created_at": "2025-12-09T01:05:56.367Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
           }
         ]
       }

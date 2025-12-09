@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-09T01:05:56.368Z",
+  "generated_at": "2025-12-09T06:23:13.124Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -863,6 +863,132 @@
       "title": "Europe and Asia Under Siege",
       "body": "Europe and Asia are fighting for their lives, with their health levels at 2207231 and 3205812 respectively. The continents are in danger of falling if their defenses are not strengthened soon.",
       "created_at": "2025-12-09T01:05:56.367Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "dqw2X_NZiy7TtAYmJqWge",
+      "type": "summary",
+      "title": "South America in Peril",
+      "body": "South America's defenses have been breached, with Antarctica and Australia still holding strong. The continent's current health stands at 1,709,246, with the Developer defending the continent.",
+      "created_at": "2025-12-09T06:23:13.123Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "xzUB4j-NUujgOOTAh1YhT",
+      "type": "summary",
+      "title": "Europe and Africa Unscathed",
+      "body": "Europe and Africa remain stable, with no reported breaches in their defenses. The Developer has been actively defending these continents, but to no avail.",
+      "created_at": "2025-12-09T06:23:13.123Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "-E-fHRv_l5_Gr1D-QndMk",
+      "type": "summary",
+      "title": "Asia and North America Under Attack",
+      "body": "Asia and North America are currently under attack, with the Developer defending both continents. The current health of Asia is 3,205,812, while North America stands at 2,238,330.",
+      "created_at": "2025-12-09T06:23:13.123Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

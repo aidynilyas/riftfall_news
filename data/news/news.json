@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-09T06:23:13.124Z",
+  "generated_at": "2025-12-09T12:30:03.785Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -989,6 +989,216 @@
       "title": "Asia and North America Under Attack",
       "body": "Asia and North America are currently under attack, with the Developer defending both continents. The current health of Asia is 3,205,812, while North America stands at 2,238,330.",
       "created_at": "2025-12-09T06:23:13.123Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "NadU8EpEzvtOKQgoNbwl6",
+      "type": "summary",
+      "title": "Antarctica on Brink of Collapse",
+      "body": "Antarctica's defenses have been breached, with Developer's last stand resulting in a catastrophic failure. The continent's health has plummeted to 709,007, leaving it vulnerable to further attacks.",
+      "created_at": "2025-12-09T12:30:03.784Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "QHSgfgdaXkezjvYG1_J6P",
+      "type": "summary",
+      "title": "South America and Australia Hold Strong",
+      "body": "South America and Australia have managed to fend off attacks, with their health levels remaining stable at 1,709,246 and 1,208,714, respectively.",
+      "created_at": "2025-12-09T12:30:03.784Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "LROA0fl5lMsJWemh5VjMT",
+      "type": "summary",
+      "title": "Asia and Europe Avoid Disaster",
+      "body": "Asia and Europe have narrowly avoided falling, with Developer's defense efforts keeping their health levels at 3,205,812 and 2,207,231, respectively.",
+      "created_at": "2025-12-09T12:30:03.784Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "BxaT4mfoKrUW0FtGdMKv-",
+      "type": "summary",
+      "title": "North America Remains Unaffected",
+      "body": "North America remains untouched, with its health level still at 2,238,330.",
+      "created_at": "2025-12-09T12:30:03.784Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 119264
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 71922
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "north_america",
+            "total_score": 1544
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "south_america",
+            "total_score": 4543020
+          }
+        ]
+      }
+    },
+    {
+      "id": "oU59vPRsixmyIdt33xEhJ",
+      "type": "summary",
+      "title": "Africa Stands Firm",
+      "body": "Africa has held its ground, with its health level remaining at 2,207,708.",
+      "created_at": "2025-12-09T12:30:03.784Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

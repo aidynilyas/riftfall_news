@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-09T18:18:43.540Z",
+  "generated_at": "2025-12-10T01:07:40.162Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -1273,6 +1273,174 @@
             "role": "defend",
             "continent_code": "north_america",
             "total_score": 1544
+          }
+        ]
+      }
+    },
+    {
+      "id": "IR9yc8Qeh3kcNgT9tXbTk",
+      "type": "summary",
+      "title": "Africa on High Alert",
+      "body": "Africa's health has dropped to 48.98% after a series of intense attacks. Defenders, led by Developer, fought valiantly but ultimately failed to repel the invaders.",
+      "created_at": "2025-12-10T01:07:40.160Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
+          }
+        ]
+      }
+    },
+    {
+      "id": "A9slvu61UaT6Q5F4QPlgo",
+      "type": "summary",
+      "title": "Europe and Australia Remain Stable",
+      "body": "Despite being attacked, Europe and Australia have managed to maintain their health, with Europe standing at 48.86% and Australia at 30.93%.",
+      "created_at": "2025-12-10T01:07:40.160Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
+          }
+        ]
+      }
+    },
+    {
+      "id": "jgqqg86RpTNlTSmri6OAo",
+      "type": "summary",
+      "title": "South America and Asia Under Pressure",
+      "body": "South America's health has dropped to 39.14%, while Asia stands at 57.26%. Defenders, including Developer and poland, are working to stem the tide of invaders.",
+      "created_at": "2025-12-10T01:07:40.160Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
+          }
+        ]
+      }
+    },
+    {
+      "id": "0TK7hzf-QDlCIAAPnoX02",
+      "type": "summary",
+      "title": "Antarctica and North America Unaffected",
+      "body": "Antarctica and North America remain unaffected, with their health at 100% and 55.83% respectively.",
+      "created_at": "2025-12-10T01:07:40.160Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
           }
         ]
       }

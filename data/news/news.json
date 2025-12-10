@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-10T12:29:57.921Z",
+  "generated_at": "2025-12-10T18:22:21.895Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -1619,6 +1619,48 @@
       "title": "Antarctica Falls to the Invaders",
       "body": "Unfortunately, Antarctica has fallen to the invaders, with its current health percentage at 14.1%.",
       "created_at": "2025-12-10T12:29:57.920Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
+          }
+        ]
+      }
+    },
+    {
+      "id": "ESghZ03STXq-m_OmuahIa",
+      "type": "summary",
+      "title": "Lines hold across 7 continents",
+      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 1.",
+      "created_at": "2025-12-10T18:22:21.894Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

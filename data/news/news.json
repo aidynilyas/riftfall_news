@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-10T06:23:35.798Z",
+  "generated_at": "2025-12-10T12:29:57.921Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -1451,6 +1451,174 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 1.",
       "created_at": "2025-12-10T06:23:35.797Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
+          }
+        ]
+      }
+    },
+    {
+      "id": "FA2OdFY_83CD0uoRw4wuH",
+      "type": "summary",
+      "title": "Africa Remains Stable, Australia Under Threat",
+      "body": "The past six hours have seen no major changes in the global situation. Africa remains stable, with its current health percentage at 48.9%. However, Australia's health has dropped to 30.7%, putting it at risk of falling to the invaders.",
+      "created_at": "2025-12-10T12:29:57.920Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
+          }
+        ]
+      }
+    },
+    {
+      "id": "4Z08WxJM1SQom0eIsyCH0",
+      "type": "summary",
+      "title": "Europe and South America Hold Strong",
+      "body": "Europe and South America have both maintained their defenses, with their current health percentages at 48.9% and 39.1%, respectively.",
+      "created_at": "2025-12-10T12:29:57.920Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
+          }
+        ]
+      }
+    },
+    {
+      "id": "35oiO5XqpmamXOLn3I4Qp",
+      "type": "summary",
+      "title": "Asia and North America Under Pressure",
+      "body": "Asia and North America have seen significant pressure from the invaders, with their current health percentages at 57.3% and 56.1%, respectively.",
+      "created_at": "2025-12-10T12:29:57.920Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "africa",
+            "total_score": 103448
+          }
+        ]
+      }
+    },
+    {
+      "id": "Oji-ZDP7mOiHSbk_qu4qK",
+      "type": "summary",
+      "title": "Antarctica Falls to the Invaders",
+      "body": "Unfortunately, Antarctica has fallen to the invaders, with its current health percentage at 14.1%.",
+      "created_at": "2025-12-10T12:29:57.920Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

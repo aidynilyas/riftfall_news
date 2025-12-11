@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-11T01:08:36.665Z",
+  "generated_at": "2025-12-11T06:24:21.133Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -1703,6 +1703,132 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 2.",
       "created_at": "2025-12-11T01:08:36.664Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "7T1I7NNqkkue7J3wCd4_w",
+      "type": "summary",
+      "title": "Asia on the Brink of Collapse",
+      "body": "Asia's health has plummeted to 28.7% of its maximum capacity, with Australia and Antarctica still standing strong at 30.9% and 0.7% respectively. South America, Africa, Europe, and North America remain stable, with none of them falling below 35% of their maximum health.",
+      "created_at": "2025-12-11T06:24:21.132Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "EI0_NQvVSimaiHNifEYVd",
+      "type": "summary",
+      "title": "Top Defenders Shine",
+      "body": "Developer has emerged as the top defender, with a total score of 4543020, followed closely by kaz with 64322. Poland and dev also made notable contributions, with scores of 583 and 115 respectively.",
+      "created_at": "2025-12-11T06:24:21.132Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "tra-GKHCLeB9M17Lo_-Z5",
+      "type": "summary",
+      "title": "Antarctica Holds Strong",
+      "body": "Antarctica has miraculously survived the last 6 hours with a mere 16512 health points remaining, a testament to the bravery of its defenders.",
+      "created_at": "2025-12-11T06:24:21.132Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

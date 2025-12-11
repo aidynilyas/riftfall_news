@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-11T12:30:51.831Z",
+  "generated_at": "2025-12-11T18:20:42.943Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -1913,6 +1913,132 @@
       "title": "South America Defends Against Odds",
       "body": "South America, despite being vastly outnumbered, has managed to hold off attackers with a current health of 1,371,405, or 39.1% of its maximum capacity.",
       "created_at": "2025-12-11T12:30:51.830Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "b-RG0-AFiiuLz2m_PIrB7",
+      "type": "summary",
+      "title": "Asia and Europe Stable, Australia and Antarctica Under Attack",
+      "body": "The last 6 hours have seen intense battles across the globe, with Asia and Europe remaining stable, while Australia and Antarctica are under attack. Australia has lost 36.9% of its health, while Antarctica has lost 99.4% of its health.",
+      "created_at": "2025-12-11T18:20:42.942Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "FkiufzHGQVccHrd1XaiCK",
+      "type": "summary",
+      "title": "Top Defenders Shine in South America and North America",
+      "body": "In South America, Developer has saved the continent with a score of 33008, while in North America, Developer has saved the continent with a score of 4543020.",
+      "created_at": "2025-12-11T18:20:42.942Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "NO9YuGKueZyT_ePEL0CG_",
+      "type": "summary",
+      "title": "Africa and Europe Fall to Low HP",
+      "body": "Africa has fallen to 37.9% of its health, while Europe has fallen to 37.8% of its health. The continents are now under attack, and defenders are scrambling to protect them.",
+      "created_at": "2025-12-11T18:20:42.942Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

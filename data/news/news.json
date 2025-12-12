@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-12T06:23:45.516Z",
+  "generated_at": "2025-12-12T12:29:29.923Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -2375,6 +2375,132 @@
       "title": "Top Defenders Shine in Australia and North America",
       "body": "In Australia, Developer has emerged as the top defender, scoring an impressive 129207 points in their defense of the continent. In North America, kaz has also made a name for themselves, scoring 64322 points in their defense of the continent.",
       "created_at": "2025-12-12T06:23:45.515Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "6nbGSvy4q8M66NCz0478U",
+      "type": "summary",
+      "title": "Continents in Peril",
+      "body": "Australia's health drops to 930,194, while South America's health plummets to 1,371,405. Asia, Africa, Europe, and North America remain stable.",
+      "created_at": "2025-12-12T12:29:29.922Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "gZSbZt_ILI-1KpM1oqAp7",
+      "type": "summary",
+      "title": "Top Defenders",
+      "body": "Developer tops the list in Asia with a score of 12,920,700, while kaz shines in South America with a score of 64,322. Poland and dev also make notable appearances.",
+      "created_at": "2025-12-12T12:29:29.922Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "s_kwUaFRTNTY04lXZ9yDJ",
+      "type": "summary",
+      "title": "Last Defense",
+      "body": "Developer's defense efforts in Asia and Europe have failed, while kaz's defense in Asia and North America have also fallen short. Poland's defense in Australia has also failed.",
+      "created_at": "2025-12-12T12:29:29.922Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

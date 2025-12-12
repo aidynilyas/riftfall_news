@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-11T18:20:42.943Z",
+  "generated_at": "2025-12-12T01:08:26.194Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -2039,6 +2039,216 @@
       "title": "Africa and Europe Fall to Low HP",
       "body": "Africa has fallen to 37.9% of its health, while Europe has fallen to 37.8% of its health. The continents are now under attack, and defenders are scrambling to protect them.",
       "created_at": "2025-12-11T18:20:42.942Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "89auryApp9OePnGOYzrk1",
+      "type": "summary",
+      "title": "Australia Still Standing Strong",
+      "body": "Despite facing numerous attacks, Australia remains stable with 930194 HP, its defenses led by Developer with a score of 129207.",
+      "created_at": "2025-12-12T01:08:26.192Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "0NYohCuGEdwXcTZ164sD8",
+      "type": "summary",
+      "title": "South America on the Brink",
+      "body": "South America's health has dropped to 1371405, but its defenders, including kaz with a score of 64322, are fighting hard to save the continent.",
+      "created_at": "2025-12-12T01:08:26.192Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "Kbqukz_v1-Z8s3igeg5bX",
+      "type": "summary",
+      "title": "Asia's Defenses Crumbling",
+      "body": "Asia's health has fallen to 2866278, with Developer and kaz leading the charge in defense, but the continent is still in danger of falling.",
+      "created_at": "2025-12-12T01:08:26.192Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "u_CNQRoc1czCLT1oueRz3",
+      "type": "summary",
+      "title": "Antarctica Saved at the Last Minute",
+      "body": "Antarctica's low HP of 16512 was saved by Developer's defense, which prevented the continent from falling.",
+      "created_at": "2025-12-12T01:08:26.192Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "DgOdQr3GOjP9MMRwWgoqp",
+      "type": "summary",
+      "title": "Europe and North America Stable",
+      "body": "Europe and North America remain stable, with Europe at 1512841 HP and North America at 1508946 HP, thanks to the efforts of their defenders.",
+      "created_at": "2025-12-12T01:08:26.192Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

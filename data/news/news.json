@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-12T01:08:26.194Z",
+  "generated_at": "2025-12-12T06:23:45.516Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -2249,6 +2249,132 @@
       "title": "Europe and North America Stable",
       "body": "Europe and North America remain stable, with Europe at 1512841 HP and North America at 1508946 HP, thanks to the efforts of their defenders.",
       "created_at": "2025-12-12T01:08:26.192Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "GOtye3Vipar-24Le88bUt",
+      "type": "summary",
+      "title": "South America on the Brink: Developer's Defense Fails",
+      "body": "In a shocking turn of events, Developer's defense of South America has failed, leaving the continent vulnerable to attack. Despite their valiant efforts, the continent's health has dropped to 1371405, a mere 12.6% of its maximum capacity.",
+      "created_at": "2025-12-12T06:23:45.515Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "ttzFKNtfeJDmfN4ko0fNH",
+      "type": "summary",
+      "title": "Asia and Europe Remain Unscathed",
+      "body": "Meanwhile, Asia and Europe have emerged unscathed from the last six hours of attacks, with their health remaining at 2866278 and 1512841 respectively. The defenders of these continents have held strong, repelling the invaders and keeping their territories safe.",
+      "created_at": "2025-12-12T06:23:45.515Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          },
+          {
+            "username": "kaz",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 64322
+          }
+        ]
+      }
+    },
+    {
+      "id": "oCcJOTADsBjhT7k1yaBaE",
+      "type": "summary",
+      "title": "Top Defenders Shine in Australia and North America",
+      "body": "In Australia, Developer has emerged as the top defender, scoring an impressive 129207 points in their defense of the continent. In North America, kaz has also made a name for themselves, scoring 64322 points in their defense of the continent.",
+      "created_at": "2025-12-12T06:23:45.515Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-13T06:21:01.646Z",
+  "generated_at": "2025-12-13T12:26:26.442Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -2711,6 +2711,48 @@
       "title": "Antarctica Falls, Africa and Europe Hold Strong",
       "body": "In a shocking turn of events, Antarctica has fallen, with its health dropping to 0%. Africa and Europe, however, have held strong, with their health levels remaining steady.",
       "created_at": "2025-12-13T06:21:01.645Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "iu834dMqhGuf6YR3hL22w",
+      "type": "summary",
+      "title": "Lines hold across 7 continents",
+      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
+      "created_at": "2025-12-13T12:26:26.441Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

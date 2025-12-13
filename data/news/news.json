@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-13T01:03:54.688Z",
+  "generated_at": "2025-12-13T06:21:01.646Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -2585,6 +2585,132 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2025-12-13T01:03:54.687Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "vPINZsIiSez18D8Q-AbGS",
+      "type": "summary",
+      "title": "Australia Defenders Shine, South America Under Threat",
+      "body": "In the last 6 hours, Australia's defenders have made significant gains, with Lilooo and Developer leading the charge. Meanwhile, South America is under threat, with its health dropping to 37.5%. The continent's defenders, including kaz, have struggled to stem the tide.",
+      "created_at": "2025-12-13T06:21:01.645Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "6I8OPRKVkAXDLUpb2-Yyp",
+      "type": "summary",
+      "title": "Asia and Europe Stable, But North America Under Pressure",
+      "body": "Asia and Europe remain stable, with their health levels steady. However, North America is under pressure, with its health dropping to 37.5%. The continent's defenders, including Developer and poland, are working to stem the tide.",
+      "created_at": "2025-12-13T06:21:01.645Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "DOLL0UGih0Rw_yvEU6q7x",
+      "type": "summary",
+      "title": "Antarctica Falls, Africa and Europe Hold Strong",
+      "body": "In a shocking turn of events, Antarctica has fallen, with its health dropping to 0%. Africa and Europe, however, have held strong, with their health levels remaining steady.",
+      "created_at": "2025-12-13T06:21:01.645Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

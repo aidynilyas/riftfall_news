@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-15T12:32:44.926Z",
+  "generated_at": "2025-12-15T18:22:27.070Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -3131,6 +3131,48 @@
       "title": "Asia's Defenders Hold Strong",
       "body": "Asia has a current health of 1910137 and a maximum health of 5000000. Notable defender 'Developer' has scored 71922 points in their defense of the continent.",
       "created_at": "2025-12-15T12:32:44.925Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "7nUvu01-EZA8eBhtvGwK3",
+      "type": "summary",
+      "title": "Lines hold across 7 continents",
+      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
+      "created_at": "2025-12-15T18:22:27.069Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

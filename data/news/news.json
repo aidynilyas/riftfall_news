@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-27T06:22:01.316Z",
+  "generated_at": "2025-12-27T12:27:01.635Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -5651,6 +5651,216 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2025-12-27T06:22:01.315Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "JmjmwryrLlDEU5_xNTCI7",
+      "type": "summary",
+      "title": "South America Under Attack",
+      "body": "South America is currently under attack, with its health at 1371405 out of 3500000. Notable defenders include Developer, kaz, and Test.",
+      "created_at": "2025-12-27T12:27:01.634Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "niFR4210Ve1hPAIuwweCZ",
+      "type": "summary",
+      "title": "Australia and Antarctica Safe",
+      "body": "Australia and Antarctica remain safe, with their health at 930194 and 16512 respectively. Notable defenders include Lilooo, Developer, and dev.",
+      "created_at": "2025-12-27T12:27:01.634Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "OHP_v-GuC4CL7uTpw-qyM",
+      "type": "summary",
+      "title": "Europe and North America Stable",
+      "body": "Europe and North America are stable, with their health at 1512841 and 1508946 respectively. Notable defenders include Developer, poland, and dev.",
+      "created_at": "2025-12-27T12:27:01.634Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "OBZsHlAecPu0EswVD_eOx",
+      "type": "summary",
+      "title": "Asia Under Pressure",
+      "body": "Asia is under pressure, with its health at 1910137 out of 5000000. Notable defenders include Developer, kaz, and Test.",
+      "created_at": "2025-12-27T12:27:01.634Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "AZxTQuYakARGw4KvnD5_j",
+      "type": "summary",
+      "title": "Africa Safe, for Now",
+      "body": "Africa is currently safe, with its health at 1513160 out of 4000000. However, it is under attack and its safety is uncertain. Notable defenders include Developer, poland, and dev.",
+      "created_at": "2025-12-27T12:27:01.634Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

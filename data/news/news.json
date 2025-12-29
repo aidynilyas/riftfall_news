@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-29T12:31:07.966Z",
+  "generated_at": "2025-12-29T18:21:49.880Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -6281,6 +6281,174 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2025-12-29T12:31:07.965Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "1zowRH78kp0wYpJ1P7wyK",
+      "type": "summary",
+      "title": "Australia Defended, Asia Under Siege",
+      "body": "The continent of Australia has successfully defended against the latest attack, with Lilooo and Developer leading the charge. Meanwhile, Asia is in danger of falling, with its current health at 1910137 out of 5000000.",
+      "created_at": "2025-12-29T18:21:49.879Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "HAvmZcjO0MdoIlJhj1mro",
+      "type": "summary",
+      "title": "South America and Africa Hold Strong",
+      "body": "South America and Africa have both successfully defended against the latest attack, with no significant damage reported.",
+      "created_at": "2025-12-29T18:21:49.879Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "BWiaXhN9wJ9YaMoyiFO0U",
+      "type": "summary",
+      "title": "Europe and North America Under Attack",
+      "body": "Europe and North America are currently under attack, with their current health at 1512841 out of 4000000 and 1508946 out of 4000000, respectively.",
+      "created_at": "2025-12-29T18:21:49.879Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "p91saCEjIQ0odCV--nARF",
+      "type": "summary",
+      "title": "Notable Defenders Emerge",
+      "body": "Several notable defenders have emerged, including Developer, poland, and kaz, who have all scored top marks in their respective continents.",
+      "created_at": "2025-12-29T18:21:49.879Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

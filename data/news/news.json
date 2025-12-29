@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-28T18:20:49.340Z",
+  "generated_at": "2025-12-29T01:14:10.839Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -6071,6 +6071,132 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2025-12-28T18:20:49.339Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "LoghK3ohSk_L0l88Tei2M",
+      "type": "summary",
+      "title": "Asia and Europe remain stable, while Africa and North America struggle to hold off invaders",
+      "body": "In the last 6 hours, top defenders on Asia and Europe have continued to repel invaders, with notable performances from Developer and kaz. Meanwhile, Africa and North America have seen significant losses, with Defender Developer and kaz putting up valiant efforts to hold back the invaders.",
+      "created_at": "2025-12-29T01:14:10.838Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "-gWyr_h4wDpQtwQByeOpW",
+      "type": "summary",
+      "title": "Australia and South America hold strong, but Antarctica falls to invaders",
+      "body": "Australia and South America have managed to hold off invaders, with Defender Developer and kaz leading the charge. However, Antarctica has fallen, with the invaders dealing significant damage to its defenses.",
+      "created_at": "2025-12-29T01:14:10.838Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "PFl9dGanIUClzj0mqmf99",
+      "type": "summary",
+      "title": "Notable defenders include Developer, kaz, and poland",
+      "body": "Top defenders in the last 6 hours include Developer, kaz, and poland, with Developer leading the charge on multiple continents.",
+      "created_at": "2025-12-29T01:14:10.838Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

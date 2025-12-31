@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-30T18:22:06.652Z",
+  "generated_at": "2025-12-31T01:09:38.939Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -6617,6 +6617,132 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2025-12-30T18:22:06.651Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "aUw_FY8TOCRvS-EsGGVCD",
+      "type": "summary",
+      "title": "Antarctica on Brink of Collapse",
+      "body": "Antarctica's defenses have been breached, with the continent's health dwindling to just 16512 out of a maximum 2500000. The continent is now at risk of falling to the enemy.",
+      "created_at": "2025-12-31T01:09:38.938Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "dOV6DuuXjt88_bafySdUl",
+      "type": "summary",
+      "title": "Top Defenders Emerge",
+      "body": "The top defenders on the continent have emerged, with Developer, kaz, and poland leading the pack. Developer has defended Australia, Asia, and North America, while kaz has defended Africa and Europe.",
+      "created_at": "2025-12-31T01:09:38.938Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "86rEAX1AokuS50FPJQXnH",
+      "type": "summary",
+      "title": "Continents in Peril",
+      "body": "Several continents are in danger of falling, including Antarctica, Africa, and Asia. The enemy is pushing hard to take control of these key regions.",
+      "created_at": "2025-12-31T01:09:38.938Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

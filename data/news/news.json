@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2025-12-31T01:09:38.939Z",
+  "generated_at": "2025-12-31T06:23:44.978Z",
   "items": [
     {
       "id": "V4B1CwjLFxkHtgBGCMb-b",
@@ -6743,6 +6743,174 @@
       "title": "Continents in Peril",
       "body": "Several continents are in danger of falling, including Antarctica, Africa, and Asia. The enemy is pushing hard to take control of these key regions.",
       "created_at": "2025-12-31T01:09:38.938Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "3uEEPm72Nma9yl_4pgjo_",
+      "type": "summary",
+      "title": "South America on the Brink",
+      "body": "South America's defenses have been breached, with the continent now at 39.6% of its maximum health. The defenders, led by Developer, have fought valiantly but ultimately failed to hold back the invaders.",
+      "created_at": "2025-12-31T06:23:44.977Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "t9ct87pnFV3DmNWv7qRM-",
+      "type": "summary",
+      "title": "Australia and Africa Hold Strong",
+      "body": "Australia and Africa remain stable, with their defenses intact and their health levels at 93.6% and 37.9% respectively. The continents' defenders, including Lilooo and Developer, have successfully repelled the invaders.",
+      "created_at": "2025-12-31T06:23:44.977Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "8ksR7866j0jz2Yqtji7ZI",
+      "type": "summary",
+      "title": "Asia and Europe Under Pressure",
+      "body": "Asia and Europe are under attack, with their health levels at 38.0% and 38.1% respectively. The defenders, led by Developer and kaz, are fighting hard to hold back the invaders, but the outcome is far from certain.",
+      "created_at": "2025-12-31T06:23:44.977Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "Y-jPMf0VwZac1XKQgrNCn",
+      "type": "summary",
+      "title": "North America and Antarctica Unscathed",
+      "body": "North America and Antarctica remain untouched, with their health levels at 100% and 0.7% respectively. Their defenders, including Developer and Test, have successfully repelled the invaders.",
+      "created_at": "2025-12-31T06:23:44.977Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

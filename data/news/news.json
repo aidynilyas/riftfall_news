@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-01-03T12:27:12.340Z",
+  "generated_at": "2026-01-03T18:20:13.873Z",
   "items": [
-    {
-      "id": "Yx9QGYnGvEIkYrBGEgbpw",
-      "type": "summary",
-      "title": "Asia Under Siege",
-      "body": "Asia has been breached, with the continent currently at 90% health. Defenders are scrambling to repel the invaders, but the situation remains dire.",
-      "created_at": "2025-12-04T01:05:59.919Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": []
-      }
-    },
     {
       "id": "GrlnIQLiY-g-qyfwgKq_D",
       "type": "summary",
@@ -7446,6 +7435,48 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2026-01-03T12:27:12.339Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "ZTxNIeqzqoiMx5iR1Hgyf",
+      "type": "summary",
+      "title": "Lines hold across 7 continents",
+      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
+      "created_at": "2026-01-03T18:20:13.872Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

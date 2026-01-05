@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-01-04T18:20:27.198Z",
+  "generated_at": "2026-01-05T01:16:11.668Z",
   "items": [
-    {
-      "id": "w58-VmdjTm9D4_Rmoq2qO",
-      "type": "summary",
-      "title": "Lines hold across 7 continents",
-      "body": "Antarctica took the heaviest fire but remains standing. Defender roster data limited this cycle. Total players involved: 0.",
-      "created_at": "2025-12-04T12:30:54.921Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": []
-      }
-    },
     {
       "id": "iFY-xCEIrQQWCE7LGdhl2",
       "type": "summary",
@@ -7601,6 +7590,48 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2026-01-04T18:20:27.197Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "v9MYK_53xt-6dbaiYDSRI",
+      "type": "summary",
+      "title": "Lines hold across 7 continents",
+      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
+      "created_at": "2026-01-05T01:16:11.667Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

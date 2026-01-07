@@ -1,97 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-01-07T01:10:27.477Z",
+  "generated_at": "2026-01-07T06:24:08.104Z",
   "items": [
-    {
-      "id": "HF3wWPnZM5NXf_iYbHze4",
-      "type": "summary",
-      "title": "North America Under Siege",
-      "body": "North America is under intense pressure from the Nether's forces. Despite valiant efforts from defenders like 'NorthernSentinel', the continent's health is declining rapidly. Its fate hangs in the balance.",
-      "created_at": "2025-12-05T18:18:48.994Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 51750
-          }
-        ]
-      }
-    },
-    {
-      "id": "XmRg4d0WDk83ZBRs_miKl",
-      "type": "summary",
-      "title": "Europe Remains Stable, for Now",
-      "body": "Europe has thus far avoided the worst of the conflict, thanks to the bravery of defenders such as 'EuropaGuard'. However, the continent is not out of danger, and its defenders must remain vigilant to prevent a sudden collapse.",
-      "created_at": "2025-12-05T18:18:48.994Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 51750
-          }
-        ]
-      }
-    },
-    {
-      "id": "u_e1gESDi9nBWsfYlsaHg",
-      "type": "summary",
-      "title": "Asia and Antarctica Hold Strong Amidst Ongoing Assault",
-      "body": "Despite intense attacks, Asia and Antarctica have managed to maintain their defenses, with Asia currently sitting at 436,076,000 HP and Antarctica at 1,795,618 HP.",
-      "created_at": "2025-12-06T01:03:09.301Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 73830
-          }
-        ]
-      }
-    },
-    {
-      "id": "0GPnwehIHVUFewl2Wbm0J",
-      "type": "summary",
-      "title": "Europe and Africa Narrowly Avoid Devastation",
-      "body": "Europe and Africa have been pushed to the brink, but thanks to the valiant efforts of top defender Developer, who has racked up a total score of 73,830, they have been able to hold off the invaders. Europe currently sits at 329,406,400 HP, while Africa stands at 328,467,000 HP.",
-      "created_at": "2025-12-06T01:03:09.301Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 73830
-          }
-        ]
-      }
-    },
-    {
-      "id": "N-YKbYv6iyQ5ooDxnyzxO",
-      "type": "summary",
-      "title": "North America and South America Under Siege",
-      "body": "North America and South America are currently under attack, with North America at 340,289,700 HP and South America at 286,322,600 HP. The defenders are fighting hard to repel the invaders, but the outcome is far from certain.",
-      "created_at": "2025-12-06T01:03:09.301Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 73830
-          }
-        ]
-      }
-    },
     {
       "id": "9raDvOTxamYgVKAL-tCVE",
       "type": "summary",
@@ -7838,6 +7748,216 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2026-01-07T01:10:27.476Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "xhI5Pa0v5NS6CIcRcoVOB",
+      "type": "summary",
+      "title": "South America Defenders Fall Short",
+      "body": "Despite valiant efforts, defenders on South America failed to repel the invaders, with Developer's score of 33008 being the highest.",
+      "created_at": "2026-01-07T06:24:08.103Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "kv11zDkk_M8HvQTQd_OZT",
+      "type": "summary",
+      "title": "Australia Remains Unscathed",
+      "body": "The continent of Australia remains safe, with a current health of 930194 and no reported attacks.",
+      "created_at": "2026-01-07T06:24:08.103Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "u7CKaZ49ZRGLWc_Z35N9i",
+      "type": "summary",
+      "title": "Europe and North America Hold Strong",
+      "body": "Europe and North America continue to defend against the invaders, with no reported losses or significant damage.",
+      "created_at": "2026-01-07T06:24:08.103Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "0g3gyqxvagOIZoQYZUEno",
+      "type": "summary",
+      "title": "Asia and Antarctica Under Attack",
+      "body": "Asia and Antarctica are currently under attack, with defenders fighting to protect their respective continents.",
+      "created_at": "2026-01-07T06:24:08.103Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "UqFqI2zOyg_NEo_0CeRK2",
+      "type": "summary",
+      "title": "Top Defenders Emerge",
+      "body": "The top defenders of the past 6 hours include Developer on South America, kaz on Africa and Asia, and Poland on North America and South America.",
+      "created_at": "2026-01-07T06:24:08.103Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

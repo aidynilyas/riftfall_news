@@ -1,61 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-01-08T01:10:21.572Z",
+  "generated_at": "2026-01-08T06:24:49.954Z",
   "items": [
-    {
-      "id": "bucxbdVNFgukz11wn0SGO",
-      "type": "summary",
-      "title": "Other Continents Unscathed",
-      "body": "The remaining continents, including Australia, Europe, Africa, North America, and South America, remain stable, with their health intact. However, the war is far from over, and vigilance is necessary to prevent a breach.",
-      "created_at": "2025-12-06T06:19:50.284Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 73830
-          }
-        ]
-      }
-    },
-    {
-      "id": "MAzq1VKyoMx5oJNBzHsnd",
-      "type": "summary",
-      "title": "Lines hold across 7 continents",
-      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (73830 pts). Total players involved: 1.",
-      "created_at": "2025-12-06T12:25:52.909Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 73830
-          }
-        ]
-      }
-    },
-    {
-      "id": "DoOHZC4rL_QKD8knrnldP",
-      "type": "summary",
-      "title": "Lines hold across 7 continents",
-      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (73830 pts). Total players involved: 1.",
-      "created_at": "2025-12-06T18:18:27.036Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 73830
-          }
-        ]
-      }
-    },
     {
       "id": "MYw8Phbr07RaSiWwC69nk",
       "type": "summary",
@@ -8030,6 +7976,132 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2026-01-08T01:10:21.571Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "XBRKEzR4ofwP29iMtMo0-",
+      "type": "summary",
+      "title": "Riftfall War Report: Last 6 Hours",
+      "body": "In the last 6 hours, the continents have remained relatively stable. Australia, South America, Antarctica, Africa, Europe, and North America are all still standing, with Australia and South America remaining at full health. Asia has taken some damage, but is still far from falling. The top defenders for each continent are: Lilooo on Australia, Developer on South America, Developer on Antarctica, Developer on Africa, Developer on Europe, Developer on North America, and Developer on Asia.",
+      "created_at": "2026-01-08T06:24:49.953Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "Rk22kyuqBzJK_ylY5a_Nh",
+      "type": "summary",
+      "title": "Notable Defender Scores",
+      "body": "Developer has emerged as a top defender on multiple continents, with scores of 123270 on South America, 103448 on Antarctica, and 4543020 on Asia. Other notable defenders include kaz on South America and Africa, and poland on North America.",
+      "created_at": "2026-01-08T06:24:49.953Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "eoS32uZ1x3F6VEmrCZZeF",
+      "type": "summary",
+      "title": "Continents in Danger",
+      "body": "Despite the overall stability, Asia is in danger of falling. Its health has been reduced to 1910137, and it will likely require significant defense efforts to prevent its downfall.",
+      "created_at": "2026-01-08T06:24:49.953Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [

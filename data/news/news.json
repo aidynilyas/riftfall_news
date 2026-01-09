@@ -1,25 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-01-08T18:19:55.376Z",
+  "generated_at": "2026-01-09T01:10:57.740Z",
   "items": [
-    {
-      "id": "PGclOlq6gxQxhXrPrUCuQ",
-      "type": "summary",
-      "title": "Antarctica Holds Strong",
-      "body": "Despite being one of the most vulnerable continents, Antarctica has managed to repel multiple attacks, with its defenders led by the top-ranked Developer, who has saved the continent from the brink of collapse multiple times.",
-      "created_at": "2025-12-07T06:19:55.430Z",
-      "meta": {
-        "fallen_continents": [],
-        "top_defenders": [
-          {
-            "username": "Developer",
-            "role": "defend",
-            "continent_code": "europe",
-            "total_score": 73830
-          }
-        ]
-      }
-    },
     {
       "id": "bwO7pNlXx5IBWGM-4KKTF",
       "type": "summary",
@@ -8150,6 +8132,48 @@
       "title": "Lines hold across 7 continents",
       "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
       "created_at": "2026-01-08T18:19:55.375Z",
+      "meta": {
+        "fallen_continents": [],
+        "top_defenders": [
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 129207
+          },
+          {
+            "username": "poland",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 501
+          },
+          {
+            "username": "dev",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 115
+          },
+          {
+            "username": "Lilooo",
+            "role": "defend",
+            "continent_code": "asia",
+            "total_score": 0
+          },
+          {
+            "username": "Developer",
+            "role": "defend",
+            "continent_code": "europe",
+            "total_score": 123270
+          }
+        ]
+      }
+    },
+    {
+      "id": "9n2HoNoWbrIR8sxvwKM_w",
+      "type": "summary",
+      "title": "Lines hold across 7 continents",
+      "body": "Antarctica took the heaviest fire but remains standing. Notable defenders: Developer (129207 pts), poland (501 pts), dev (115 pts). Total players involved: 3.",
+      "created_at": "2026-01-09T01:10:57.739Z",
       "meta": {
         "fallen_continents": [],
         "top_defenders": [
